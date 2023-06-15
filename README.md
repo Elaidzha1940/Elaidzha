@@ -1,6 +1,4 @@
-[# Hello there 
-](https://www.pinterest.com/pin/ciudad-futurista--601160250270667206/
-<h1 align="center">Hi 👋, I'm Elaidzha Shchukin</h1>
+ <h1 align="center">Hi 👋, I'm Elaidzha Shchukin</h1>
 <h3 align="center">A passionate software engineer and iOS developer from South Europe</h3>
 https://www.pinterest.com/pin/ciudad-futurista--601160250270667206/
 
