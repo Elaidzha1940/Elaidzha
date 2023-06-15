@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elaidzha Shchukin</h1>
 <h3 align="center">A passionate software engineer and iOS developer from South Europe</h3>
-https://www.pinterest.com/pin/ciudad-futurista--601160250270667206/
+<img align=“right” alt=“Coding” width=“400” src= “https://www.pinterest.com/pin/ciudad-futurista--601160250270667206/.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elaidzha1940&label=Profile%20views&color=0e75b6&style=flat" alt="elaidzha1940" /> </p>
 
@@ -33,5 +33,3 @@ https://www.pinterest.com/pin/ciudad-futurista--601160250270667206/
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elaidzha1940&" alt="elaidzha1940" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elaidzha1940&" alt="elaidzha1940" /></p>
